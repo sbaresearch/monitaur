@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pt
+*.pth
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+prometheus_data/
+.DS_Store

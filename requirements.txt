@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+prometheus-client
+prometheus_fastapi_instrumentator
+monitoring_toolkit @ git+https://github.com/darusik/monitoring_toolkit.git
