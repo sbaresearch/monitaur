@@ -21,8 +21,8 @@ This is a lightweight, extensible monitoring server built with **FastAPI**, inte
 Clone the repo and start the full monitoring stack:
 
 ```bash
-git clone https://github.com/your-username/monitoring-api.git
-cd monitoring-api
+git clone https://github.com/sbaresearch/monitaur.git
+cd monitaur
 docker compose up --build
 ```
 
